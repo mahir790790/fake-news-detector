@@ -53,5 +53,5 @@ fake-news-detection/
 If Git is installed:
 
 ```bash
-git clone https://github.com/your-username/fake-news-detection.git
+git clone https://github.com/mahir790790/fake-news-detector.git
 cd fake-news-detection
